@@ -31,4 +31,5 @@ indique qué pókemon es y qué ataque está realizando, por ejemplo: “Soy Cha
 atacando  con  Ascuas”  o  “Soy  Pikachu  y  estoy  atacando  con  placaje”.  Luego  de  realizar  lo 
 mencionado,  crear  las  instancias  necesarias  y  llamar  a  cada  uno  de  los  métodos  de  cada Pokemon
 
-!(Ejercicio_Integrador_POO/42-2.jpg)
+[!NOTE]
+> Useful information that users should know, even when skimming content.
